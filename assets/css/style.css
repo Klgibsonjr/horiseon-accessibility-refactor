@@ -45,7 +45,7 @@ a {
     text-decoration: none;
 }
 
-p {
+ p {
     font-size: 20px;
 }
 
@@ -62,17 +62,19 @@ p {
 .float-left {
     float: left;
     margin-right: 25px;
+    max-height: 200px;
 }
 
 .float-right {
     float: right;
     margin-left: 25px;
+    max-height: 200px;
 }
 
 .content {
     width: 75%;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 /* Benefit Elements on right side of page */
@@ -167,40 +169,22 @@ p {
     color: #ffffff;
 }
 
-#search-engine-optimization img {
-    max-height: 200px;
-}
-
-#online-reputation-management img {
-    max-height: 200px;
-}
-
-#social-media-marketing img {
-    max-height: 200px;
-}
-
-#search-engine-optimization h2 {
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-#online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-#social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 .seo{
+footer h3 .seo{
     color: #40413f;
+}
+
+footer p {
+    font-size: 15px;
 }
