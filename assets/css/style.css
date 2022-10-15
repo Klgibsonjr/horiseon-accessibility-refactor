@@ -10,7 +10,7 @@ body {
   color: #ffffff;
 }
 
-/* Header: contains company logo and navbar with links */
+/* Header section: contains company logo and navbar with links */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -24,6 +24,7 @@ h1 {
 }
 
 span {
+  /* used to style the letters 'seo' in the company log */
   color: #d9dcd6;
 }
 
@@ -38,7 +39,7 @@ li {
   display: inline-block;
   margin-left: 25px;
 }
-/* Header */
+/* End of Header section */
 
 a {
   color: #ffffff;
@@ -59,17 +60,20 @@ p {
 }
 /* End Main Image */
 
+/* Styles the section article headings */
 h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
+/*Styles and positions images of section article elements */
 .float-left {
   float: left;
   margin-right: 25px;
   max-height: 200px;
 }
 
+/*Styles and positions images of section article elements */
 .float-right {
   float: right;
   margin-left: 25px;
@@ -116,7 +120,7 @@ aside {
 .benefit-categories img {
   display: block;
   margin: 10px auto;
-  max-height: 150px;
+  max-height: 200px;
 }
 
 /* End of Benefits */
