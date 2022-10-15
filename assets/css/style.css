@@ -10,7 +10,7 @@ body {
   color: #ffffff;
 }
 
-/* */
+/* Header: contains company logo and navbar with links */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -38,7 +38,6 @@ li {
   display: inline-block;
   margin-left: 25px;
 }
-
 /* Header */
 
 a {
@@ -60,6 +59,11 @@ p {
 }
 /* End Main Image */
 
+h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
 .float-left {
   float: left;
   margin-right: 25px;
@@ -75,7 +79,7 @@ p {
 section {
   width: 75%;
   display: inline-block;
-  margin-left: 10px;
+  margin-left: 20px;
 }
 
 section article {
@@ -116,11 +120,6 @@ aside {
 }
 
 /* End of Benefits */
-
-h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
 
 footer {
   padding: 30px;
