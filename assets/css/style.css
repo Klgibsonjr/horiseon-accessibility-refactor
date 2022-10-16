@@ -23,8 +23,8 @@ h1 {
   font-size: 48px;
 }
 
+/* Used to style the letters 'seo' in the company log */
 span {
-  /* used to style the letters 'seo' in the company log */
   color: #d9dcd6;
 }
 
@@ -66,14 +66,14 @@ h2 {
   font-size: 36px;
 }
 
-/*Styles and positions images of section article elements */
+/* Styles and positions images of section article elements */
 .float-left {
   float: left;
   margin-right: 25px;
   max-height: 200px;
 }
 
-/*Styles and positions images of section article elements */
+/* Styles and positions images of section article elements */
 .float-right {
   float: right;
   margin-left: 25px;
