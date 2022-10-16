@@ -47,7 +47,7 @@ a {
 }
 
 p {
-  font-size: 20px;
+  font-size: 16px;
 }
 
 /* Main Meeting Image */
@@ -106,10 +106,6 @@ aside {
 
 .benefit-categories {
   margin-bottom: 32px;
-}
-
-.benefit-categories p {
-  font-size: 16px;
 }
 
 .benefit-categories h3 {
