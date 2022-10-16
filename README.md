@@ -12,5 +12,9 @@ This was achieved by executing the following changes:
 > * Add alt attributes to all the image with concise descriptions
 > * Consolidate the CSS file to reduce clear and increase clarity
 
+Below is an image of end result of the code refactor. Although the code has gone through a pretty extensive code refactor. The website looks and functions the same.
+
+![Horiseon Webpage](/assets/images/Horiseon.png)
+
 
   
