@@ -1,3 +1,16 @@
 <h1 align="center">Horiseon</h1>
-<h2 align="center">A Marketing Agency</h2>
+<h2 align="center">Accessibility Code Refactor</h2>
 
+#### Description
+The purpose of this project was to increase the accessiblity of Horiseon's webpage. 
+
+This was achieved by executing the following changes:
+
+> * A clear title for the website was present
+> * Use semantic HTML elements
+> * Logically structure the HTML code before adding CSS
+> * Add alt attributes to all the image with concise descriptions
+> * Consolidate the CSS file to reduce clear and increase clarity
+
+
+  
