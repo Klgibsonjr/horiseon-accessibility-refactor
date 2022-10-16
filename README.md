@@ -16,5 +16,9 @@ Below is an image of end result of the code refactor. Although the code has gone
 
 ![Horiseon Webpage](/assets/images/Horiseon.png)
 
+Here is a link to Horiseon's website featuring new coding improving the accessibility of the website. Which will not only increase the accessibility for those who need. But will also increase the SEO (search engine optimization of the site), helping it reach a broader user base.
+
+> <https://klgibsonjr.github.io/horiseon-accessibility-refactor/>
+
 
   
