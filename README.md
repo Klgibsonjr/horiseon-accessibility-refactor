@@ -2,12 +2,12 @@
 <h2 align="center">Accessibility Code Refactor</h2>
 
 #### Description
-The purpose of this project was to increase the accessiblity of Horiseon's webpage. 
+The purpose of this project was to increase the accessiblity of Horiseon's webpage.
 
 This was achieved by executing the following changes:
 
-> * A clear title for the website was present
-> * Use semantic HTML elements
+> * Added a clear title for the website
+> * Implemented more semantic HTML elements to provide more meanig to the code.
 > * Logically structure the HTML code before adding CSS
 > * Add alt attributes to all the image with concise descriptions
 > * Consolidate the CSS file to reduce clear and increase clarity
