@@ -10,7 +10,7 @@ This was achieved by executing the following changes:
 > * Implemented more semantic HTML elements to provide more meanig to the code.
 > * Logically structure the HTML code before adding CSS
 > * Add alt attributes to all the image with concise descriptions
-> * Consolidate the CSS file to reduce clear and increase clarity
+> * Consolidate the CSS file to reduce redundancy and increase clarity
 
 Below is an image of end result of the code refactor. Although the code has gone through a pretty extensive code refactor. The website looks and functions the same.
 
